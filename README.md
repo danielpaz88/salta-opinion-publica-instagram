@@ -9,7 +9,7 @@
 
 
 ### Nube de palabras general
-![Nube general](Nube de palabras General - Salta - Argentina.png)
+![Nube general](Nube%20de%20palabras%20General%20-%20Salta%20-%20Argentina.png)
 
 ---
 
