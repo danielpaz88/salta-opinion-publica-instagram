@@ -9,7 +9,7 @@
 
 
 ### Nube de palabras general
-![Nube general](https://raw.githubusercontent.com/tu-usuario/salta-opinion-publica-instagram/main/docs/wordcloud_general.png)
+![Nube general](Nube de palabras General - Salta - Argentina.png)
 
 ---
 
