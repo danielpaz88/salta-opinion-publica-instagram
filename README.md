@@ -26,4 +26,4 @@
 📝 Informe completo
 El análisis detallado está disponible en:
 
-[📄 Leer informe: ](./insta_informe_01-09-26_07-09-26_01.pdf)
+[📄 Leer informe](./insta_informe_01-09-26_07-09-26_01.pdf)
